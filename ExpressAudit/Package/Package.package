@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8a513ddf-18fc-43d5-adca-7cc481ea83d9" 
+        solutionId="8a513ddf-18fc-43d5-adca-7cc481ea83d9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ExpressAudit"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ffc1c2c0-5f7b-436f-a22c-2631cb402a08" />
+  </features>
+</package>

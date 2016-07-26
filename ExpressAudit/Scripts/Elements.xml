@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\jquery\jquery.d.ts" Url="Scripts/typings/jquery/jquery.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular.d.ts" Url="Scripts/typings/angularjs/angular.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-sanitize.d.ts" Url="Scripts/typings/angularjs/angular-sanitize.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-route.d.ts" Url="Scripts/typings/angularjs/angular-route.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-resource.d.ts" Url="Scripts/typings/angularjs/angular-resource.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-mocks.d.ts" Url="Scripts/typings/angularjs/angular-mocks.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-cookies.d.ts" Url="Scripts/typings/angularjs/angular-cookies.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-component-router.d.ts" Url="Scripts/typings/angularjs/angular-component-router.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-animate.d.ts" Url="Scripts/typings/angularjs/angular-animate.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\microsoft-ajax\microsoft.ajax.d.ts" Url="Scripts/typings/microsoft-ajax/microsoft.ajax.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\sharepoint\SharePoint.d.ts" Url="Scripts/typings/sharepoint/SharePoint.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\expressAudit.ts" Url="Scripts/expressAudit.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\expressAudit.js" Url="Scripts/expressAudit.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout-3.4.0.js" Url="Scripts/knockout-3.4.0.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout-3.4.0.debug.js" Url="Scripts/knockout-3.4.0.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\knockout\tests\jasmine.extensions.d.ts" Url="Scripts/typings/knockout/tests/jasmine.extensions.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\knockout\knockout.d.ts" Url="Scripts/typings/knockout/knockout.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout.mapping.js" Url="Scripts/knockout.mapping.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\knockout.mapping\knockout.mapping.d.ts" Url="Scripts/typings/knockout.mapping/knockout.mapping.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout.mapping-latest.js" Url="Scripts/knockout.mapping-latest.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\knockout.mapping-latest.debug.js" Url="Scripts/knockout.mapping-latest.debug.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
